@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1683024141 source:c:\users\windows 10\desktop\university\first semester\codes in c\a34f5\a34f5.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

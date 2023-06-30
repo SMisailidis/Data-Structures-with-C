@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1684786829 source:c:\users\windows 10\desktop\university\first semester\codes in c\a8f6\a8f6.c
+	<stdio.h>
+	"ctype.h"
+

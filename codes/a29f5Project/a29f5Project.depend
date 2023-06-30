@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1618933484 source:c:\users\windows 10\desktop\university\second semester\domes dedomenwn\codes\a29f5project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
